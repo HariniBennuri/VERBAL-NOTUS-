@@ -1,7 +1,7 @@
 # VERBAL-NOTUS
 AI-powered Automated Notes Taking
 
-# Project Overview
+# Project Overview
 
 The Verbal Notus Project is a sophisticated and versatile voice assistant that allows users to interact with their devices using natural language.
 Whether you want to check the weather, set reminders, send text messages, or perform complex tasks, Verbal Notus has got you covered. 
